@@ -1,0 +1,123 @@
+PODS:
+  - Ads-CN-Beta/BUAdSDK (6.8.0.1)
+  - Ads-CN-Beta/CSJMediation (6.8.0.1):
+    - Ads-CN-Beta/BUAdSDK
+  - BaiduMobAdSDK (5.373)
+  - Flutter (1.0.0)
+  - GDTMobSDK (4.15.30)
+  - integration_test (0.0.1):
+    - Flutter
+  - KSAdSDK (3.3.74)
+  - MercurySDK (4.4.7)
+  - mypl (0.0.1):
+    - Ads-CN-Beta/BUAdSDK (= 6.8.0.1)
+    - Ads-CN-Beta/CSJMediation (= 6.8.0.1)
+    - BaiduMobAdSDK (= 5.373)
+    - Flutter
+    - GDTMobSDK (= 4.15.30)
+    - KSAdSDK (= 3.3.74)
+    - MercurySDK (= 4.4.7)
+    - newios_sdk
+    - newios_sdk/BDAdapter
+    - newios_sdk/CSJAdapter
+    - newios_sdk/GDTAdapter
+    - newios_sdk/KSAdapter
+    - newios_sdk/MercuryAdapter
+    - newios_sdk/SigmobAdapter
+    - newios_sdk/TanxAdapter
+    - SDWebImage
+    - SigmobAd-iOS (= 4.17.0)
+    - TanxSDK (= 3.7.2)
+  - newios_sdk (0.0.2):
+    - newios_sdk/Core (= 0.0.2)
+  - newios_sdk/AdSpot (0.0.2):
+    - newios_sdk/Core
+  - newios_sdk/BDAdapter (0.0.2):
+    - BaiduMobAdSDK (= 5.373)
+    - newios_sdk/AdSpot
+  - newios_sdk/Core (0.0.2)
+  - newios_sdk/CSJAdapter (0.0.2):
+    - Ads-CN-Beta/BUAdSDK (= 6.8.0.1)
+    - newios_sdk/AdSpot
+  - newios_sdk/GDTAdapter (0.0.2):
+    - GDTMobSDK (= 4.15.30)
+    - newios_sdk/AdSpot
+  - newios_sdk/KSAdapter (0.0.2):
+    - KSAdSDK (= 3.3.74)
+    - newios_sdk/AdSpot
+  - newios_sdk/MercuryAdapter (0.0.2):
+    - MercurySDK (= 4.4.7)
+    - newios_sdk/AdSpot
+  - newios_sdk/SigmobAdapter (0.0.2):
+    - newios_sdk/AdSpot
+    - SigmobAd-iOS (= 4.17.0)
+  - newios_sdk/TanxAdapter (0.0.2):
+    - newios_sdk/AdSpot
+    - TanxSDK (= 3.7.2)
+  - SDWebImage (5.21.0):
+    - SDWebImage/Core (= 5.21.0)
+  - SDWebImage/Core (5.21.0)
+  - SigmobAd-iOS (4.17.0):
+    - SigmobAd-iOS/WindSDK (= 4.17.0)
+  - SigmobAd-iOS/WindSDK (4.17.0)
+  - TanxSDK (3.7.2)
+
+DEPENDENCIES:
+  - Ads-CN-Beta/BUAdSDK (= 6.8.0.1)
+  - Ads-CN-Beta/CSJMediation (= 6.8.0.1)
+  - BaiduMobAdSDK (= 5.373)
+  - Flutter (from `Flutter`)
+  - GDTMobSDK (= 4.15.30)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+  - KSAdSDK (= 3.3.74)
+  - MercurySDK (= 4.4.7)
+  - mypl (from `.symlinks/plugins/mypl/ios`)
+  - newios_sdk
+  - newios_sdk/BDAdapter
+  - newios_sdk/CSJAdapter
+  - newios_sdk/GDTAdapter
+  - newios_sdk/KSAdapter
+  - newios_sdk/MercuryAdapter
+  - newios_sdk/SigmobAdapter
+  - newios_sdk/TanxAdapter
+  - SDWebImage
+  - SigmobAd-iOS (= 4.17.0)
+  - TanxSDK (= 3.7.2)
+
+SPEC REPOS:
+  trunk:
+    - Ads-CN-Beta
+    - BaiduMobAdSDK
+    - GDTMobSDK
+    - KSAdSDK
+    - MercurySDK
+    - newios_sdk
+    - SDWebImage
+    - SigmobAd-iOS
+    - TanxSDK
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+  mypl:
+    :path: ".symlinks/plugins/mypl/ios"
+
+SPEC CHECKSUMS:
+  Ads-CN-Beta: 888fb212b90948be531e53d884320f4c259dc372
+  BaiduMobAdSDK: 834a7246eab7a8af4e7f0fc8e94a3482a2f57859
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  GDTMobSDK: ee16d8b3c06825c09c0be89a443c1a909fdb86b3
+  integration_test: 4a889634ef21a45d28d50d622cf412dc6d9f586e
+  KSAdSDK: bf5dcb9cc6a3dc83e5d4fcc44d96e94c16630b1c
+  MercurySDK: aefb50a4397520a85f400f7d4ab5ff12e74400c4
+  mypl: 6a7c56049ed5ce7ad750d46407951a514d553b71
+  newios_sdk: 9dcc65dd5f4d7b2a0cc5d6cb4361a3777607fa13
+  SDWebImage: f84b0feeb08d2d11e6a9b843cb06d75ebf5b8868
+  SigmobAd-iOS: b1cdeaf905a27cf2f04ae45593ffb68c452bde49
+  TanxSDK: 599bbf1f47f7a7bfe9cce316a1a80c0e853557cb
+
+PODFILE CHECKSUM: 405c2c4b49ce4fa225852e256b1d4ab34984476b
+
+COCOAPODS: 1.16.2
