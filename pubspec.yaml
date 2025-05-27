@@ -1,5 +1,5 @@
 name: mypl
-description: "A new Flutter plugin project."
+description: A Flutter plugin for multi-platform ad integration, supporting major ad SDKs.
 version: 0.0.1
 homepage: https://github.com/Wu-An-Jun/mypl
 repository: https://github.com/Wu-An-Jun/mypl.git

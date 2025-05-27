@@ -157,9 +157,10 @@ packages:
   mypl:
     dependency: "direct main"
     description:
-      path: ".."
-      relative: true
-    source: path
+      name: mypl
+      sha256: b546eff4dc709615fde3eb5ee8ce20001a4f53613c241d7c2df331a5372d51ff
+      url: "https://pub.dev"
+    source: hosted
     version: "0.0.1"
   path:
     dependency: transitive
